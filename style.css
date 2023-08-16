@@ -466,6 +466,7 @@ p {
   grid-template-rows: 84px 1fr;
 
   column-gap: 30px;
+  row-gap: 8px;
 }
 
 .author__img {
