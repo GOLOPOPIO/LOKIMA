@@ -281,15 +281,6 @@ p {
   content: 'Buy 4.99 €';
 }
 
-/* ====== About ====== */
-.about {
-  padding-top: 95px;
-
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-}
-
 /* ====== Block 3 ====== */
 .block__three {
   display: flex;
@@ -313,8 +304,6 @@ p {
   flex-direction: column;
   padding: 40px 60px;
   width: 50%;
-
-  /* background-color: red; */
 }
 
 .card {
